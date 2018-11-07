@@ -1,3 +1,3 @@
-# ipynbs
+please ignore
 
-### The code in this repo is not supposed to be useful for anything. 
+This repository contains code that is either linked on SO, doesn't work or just needed to be uploaded somewhere.
